@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_market.dir/link.d "CMakeFiles/test_market.dir/test-market.cc.o" CMakeFiles/test_market.dir/options.cc.o CMakeFiles/test_market.dir/underlying.cc.o -o /home/ai/Documents/calibration/bin/test_market
